@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.h2{
+    background-color:#D67F7F;
+    text-align: center;
+    width: 60vh;
+    height: 7vh;
+    margin-left: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2vh;
+}
+
+.container-1{
+    background-color: #D67F7F;
+    margin-top: 5vw;
+    
+    width: 25vw;
+    height: 32vh;
+    border: 1px solid black;
+    margin-right: 10vh;
+    
+}
+
+.pagina6{
+margin-left: 50vh;
+}
+
+.title-pg6{
+    text-align: center;
+}
+
+div{
+    display: inline-block;
+    
+}
